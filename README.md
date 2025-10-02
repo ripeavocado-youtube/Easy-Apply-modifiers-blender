@@ -5,15 +5,12 @@ This addon adds a magical “Apply All Modifiers” button right above the “Ad
 
 ✅ If you have no modifiers… well, it gently reminds you that you wasted a click.
 
-✅ Zero bloat, maximum Blender laziness.
 
 Installation
 
 Smash that Download ZIP.
 
-In Blender: Edit → Preferences → Add-ons → Install…
-
-Select the ZIP and enable it.
+In Blender: Drag the zip into the workspace (don't unzip it!)
 
 Feel powerful.
 
