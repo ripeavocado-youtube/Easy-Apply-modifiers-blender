@@ -10,7 +10,7 @@ Installation
 
 Smash that Download ZIP.
 
-In Blender: Drag the zip into the workspace (don't unzip it!)
+In Blender: Drag the zip into the blender workspace (don't unzip it!)
 
 Feel powerful.
 
